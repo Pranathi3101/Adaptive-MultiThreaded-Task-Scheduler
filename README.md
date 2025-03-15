@@ -1,2 +1,2 @@
 # Adaptive-MultiThreaded-Task-Scheduler
-This is the Operating System Project
+An adaptive task scheduler with work-stealing algorithms and machine learning capabilities.
