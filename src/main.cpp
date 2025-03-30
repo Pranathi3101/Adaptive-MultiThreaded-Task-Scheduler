@@ -1,8 +1,8 @@
 #include <iostream>
 #include <chrono>
 #include <thread>
-#include "core/scheduler.h"
-#include "ml/workload_predictor.h"
+#include "../include/core/Scheduler.h"
+#include "../include/ml/workload_predictor.h"
 
 // Simulated task function
 void simulatedTask(int taskId, int duration) {
